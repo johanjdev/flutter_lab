@@ -6,11 +6,6 @@ body {
   color: #333;
 }
 
-header {
-  background-color: #1976d2;
-  padding: 10px 0;
-}
-
 nav ul {
   list-style: none;
   display: flex;
